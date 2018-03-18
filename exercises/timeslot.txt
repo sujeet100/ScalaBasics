@@ -1,0 +1,8 @@
+A user's calender contains timeslots represented by from and to hours.
+Assume none of the timeslot overlaps.
+
+Write a code to
+- return available timeslot
+- postpone timeslot by n hours
+- print the timeslot, if the timeslot is not available print "No timeslot available"
+- book the timeslot if availble
