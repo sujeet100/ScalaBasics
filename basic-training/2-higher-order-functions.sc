@@ -4,8 +4,8 @@
 def sum(n: Int) = {
   var sum = 0
   var temp = n
-  while (temp > 0) {
-    sum += temp
+  while (n > 0) {
+    sum += n
     temp -= 1
   }
   sum
